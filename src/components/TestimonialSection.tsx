@@ -128,7 +128,7 @@ export default function TestimonialSection() {
           className="w-full aspect-[4/5] relative overflow-hidden"
         >
           <img
-            src="assets/imagens/confenteira.jpg"
+            src="/imagens/confenteira.jpg"
             alt="Chris Halaska testimonial author portrait"
             className="w-full h-full object-cover rounded-2xl"
             referrerPolicy="no-referrer"

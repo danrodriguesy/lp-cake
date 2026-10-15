@@ -11,11 +11,11 @@ import CopyrightBar from './components/CopyrightBar';
 import BottomNav from './components/BottomNav';
 
 const marqueeGifs = [
-  'assets/imagens/1.png',
-  'assets/imagens/2.png',
-  'assets/imagens/3.png',
-  'assets/imagens/4.png',
-  'assets/imagens/5.png',
+  '/imagens/1.png',
+  '/imagens/2.png',
+  '/imagens/3.png',
+  '/imagens/4.png',
+  '/imagens/5.png',
 ];
 
 // Combine regular stream with duplicate set for horizontal seamless loop

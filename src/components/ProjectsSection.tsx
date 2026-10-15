@@ -8,21 +8,21 @@ const projectsData: Project[] = [
     // slug: 'Cada detalhe merece despertar desejo',
     // name: 'evr',
     description: 'Cada detalhe merece despertar desejo',
-    gifUrl: 'assets/imagens/bolo1.jpg',
+    gifUrl: '/imagens/bolo1.jpg',
   },
   {
     id: 2,
     // slug: 'automation-machines',
     // name: 'Automation Machines',
     description: 'Seus bolos são únicos. Sua apresentação também deve ser',
-    gifUrl: 'assets/imagens/bolo2.jpg',
+    gifUrl: '/imagens/bolo2.jpg',
   },
   {
     id: 3,
     // slug: 'xportfolio',
     // name: 'xPortfolio',
     description: 'Seus próximos clientes podem se apaixonar pelo seu trabalho antes do primeiro contato.',
-    gifUrl: 'assets/imagens/bolo3.jpg',
+    gifUrl: '/imagens/bolo3.jpg',
   },
 ];
 
