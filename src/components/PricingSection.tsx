@@ -25,7 +25,7 @@ export default function PricingSection() {
           >
             <div>
               <h3 className="text-[22px] font-medium text-[#0D212C] font-sans mb-3">
-                O que você vai ter:
+                O que oferecemos para você hoje:
               </h3>
               <p className="text-sm md:text-base text-[#273C46] leading-relaxed mb-10 font-sans">
                 ✓ Sem mensalidades <br />

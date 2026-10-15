@@ -110,13 +110,6 @@ export default function App() {
             >
               Quero ter o meu site
             </Button>
-            <Button
-              variant="secondary"
-              onClick={() => handleScrollView('work')}
-              className="px-8 py-3 text-sm md:text-base text-center"
-            >
-              Ver projetos
-            </Button>
           </div>
 
         </div>
