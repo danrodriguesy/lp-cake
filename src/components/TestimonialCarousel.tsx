@@ -143,7 +143,7 @@ export default function TestimonialCarousel() {
             }`}
           >
             <h2 className="text-[32px] md:text-[40px] lg:text-[44px] leading-[1.1] tracking-tight font-sans font-semibold text-[#0D212C]">
-              What <span className="font-mondwest">builders</span> say
+               <span className="font-mondwest">builders</span> say
             </h2>
           </div>
 

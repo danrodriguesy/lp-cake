@@ -14,8 +14,6 @@ export default function PricingSection() {
         {/* Right-aligned content wrapper for desktop */}
         <div className="w-full md:max-w-4xl md:ml-auto grid grid-cols-1 md:grid-cols-2 gap-8 justify-end">
           
-          
-
           {/* Card 2 - Light Project Plan */}
           <div
             style={{ animationDelay: '0.2s' }}

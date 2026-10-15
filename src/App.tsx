@@ -73,7 +73,7 @@ export default function App() {
               Assuma a postura <span className="font-mondwest italic font-normal">da confeitaria</span>
             </span>
             <span className="block">
-              que <span className="font-mondwest italic font-normal">o mercado admira.</span>
+              <span className="font-mondwest italic font-normal">profissional</span>
             </span>
           </div>
 
@@ -85,7 +85,7 @@ export default function App() {
             }`}
           >
             <p>
-              Sites que transformam confeiteiras iniciantes em marcas que ninguém esquece.
+              Tenha um site que transforma o seu trabalho em uma marca que ninguém esquece e venda bolos e doces todos os dias.
             </p>
             {/* <p>
               The studio is deliberately small. I guide the creative vision on every project,
